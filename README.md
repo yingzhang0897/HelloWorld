@@ -4,7 +4,7 @@ Use python to print "hello world" in VS code and publish it to github repository
 It is just a demo of creating a personal software portfolio.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Hello World Demo Video](https://youtu.be/tdD221p7ng0)
 
 # Development Environment
 
